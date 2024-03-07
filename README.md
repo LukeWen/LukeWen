@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🔭 I’m currently looking for a job. This is my [resume](https://lukewen.github.io/online-cv/).
 <!--
 **LukeWen/LukeWen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
